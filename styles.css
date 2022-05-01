@@ -1,0 +1,134 @@
+
+.colors {
+  border: 1px black solid;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.fonts {
+  border: 1px black solid;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+ }
+
+ .tstyles {
+  border: 1px black solid;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.heading {
+  left: 200px;
+  position: relative;
+}
+
+h3 {
+  font-weight: bold;
+  left: 50px;
+  position: relative;
+  font-size: 25px;
+}
+
+.box {
+  width: 450px;
+  height: 100px;
+  position: relative;
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+  left: 10px;
+}
+
+.toastbox {
+  background-color: #B1A296;
+}
+
+.mistbox {
+  background-color: #557A95;
+}
+
+.steelbox {
+  background-color: #7395AE;
+}
+
+.dirtbox {
+  background-color: #379683;
+  margin-bottom: 20px;
+}
+
+.mudbox {
+  background-color: #5D5C61;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+il.box {
+  font-size: 40px;
+  text-align: center;
+}
+
+.box p {
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.type {
+  width: 450px;
+  height: 200px;
+  font-size: 18px;
+  display: inline-block;
+  left: 50px;
+  position: relative;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.IBM {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.Fira {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.PT {
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+.style {
+  display: inline-block;
+  width: 500px;
+  left: 50px;
+  position: relative;
+}
+
+.head1 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.head2 {
+  font-weight: 500px;
+  font-size: 16px;
+}
+
+.para {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.style li {
+  font-size: 16px;
+  text-decoration: normal;
+  font-weight: 400;
+}
